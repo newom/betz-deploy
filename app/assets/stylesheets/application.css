@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+/*@import "bootstrap";*/
+
+h1{
+	text-align: center;
+}
+
+body{
+	padding: 70px;
+}
+
+table#openbets{
+	align: "center";
+}
